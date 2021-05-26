@@ -1,6 +1,6 @@
 {
-  "name": "github-blog",
-  "homepage": "https://emireken.github.io/github-blog/",
+  "name": "egek-blog-app",
+  "homepage": "https://emireken.github.io/egek-blog-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
