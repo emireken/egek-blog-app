@@ -15,10 +15,10 @@
       ]
     },
     {
-      "login": "saadpasta",
-      "name": "Saad Pasta",
+      "login": "emireken",
+      "name": "Emir Eken",
       "avatar_url": "https://avatars2.githubusercontent.com/u/23307811?v=4",
-      "profile": "http://saadpasta.github.io",
+      "profile": "http://emireken.github.io",
       "contributions": [
         "code",
         "doc",
@@ -93,8 +93,8 @@
     }
   ],
   "contributorsPerLine": 7,
-  "projectName": "react-blog-github",
-  "projectOwner": "saadpasta",
+  "projectName": "github-blog",
+  "projectOwner": "emireken",
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true
