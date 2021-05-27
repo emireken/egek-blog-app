@@ -7,7 +7,7 @@ export const config = {
   githubUserName: "emireken",
 
   // Your Github Repo Name Where You Have your issues as Blog
-  githubRepo: "github-blog",
+  githubRepo: "egek-blog-app",
 
   // Set it to true if you have a Github app to add to this project
   // and fill the client ID & secret
