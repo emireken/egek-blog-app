@@ -20,6 +20,7 @@ export const config = {
 
   // Your Personal Blog Subtitle
   subtitle: "IT Project Leader / Software Analyst / Jr. Software Developer  ",
+  contact: "emirgokberk.eken@gmail.com  ",
 
   // Header customization
   header: {
@@ -29,5 +30,7 @@ export const config = {
     titleColorDark: "#16a085",
     subtitleColor: "#37474f",
     subtitleColorDark: "#D8DEE9",
+    contactColor: "#37474f",
+    contactColorDark: "#D8DEE9",
   },
 };
