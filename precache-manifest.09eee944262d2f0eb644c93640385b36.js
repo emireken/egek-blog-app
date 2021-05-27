@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "71046e347944c41a51fe2aa3b6837929",
+    "revision": "f184d86b2bf4aa889a498b68a29fab73",
     "url": "/egek-blog-app/index.html"
   },
   {
-    "revision": "768e8debc835e9f8efd4",
+    "revision": "5e81a296ec6f340e846c",
     "url": "/egek-blog-app/static/css/main.4aae100c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/egek-blog-app/static/js/2.07c42781.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "768e8debc835e9f8efd4",
-    "url": "/egek-blog-app/static/js/main.f1f8bdcc.chunk.js"
+    "revision": "5e81a296ec6f340e846c",
+    "url": "/egek-blog-app/static/js/main.9df948db.chunk.js"
   },
   {
     "revision": "69090adfc35115012c72",

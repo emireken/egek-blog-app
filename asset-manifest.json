@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/egek-blog-app/static/css/main.4aae100c.chunk.css",
-    "main.js": "/egek-blog-app/static/js/main.f1f8bdcc.chunk.js",
-    "main.js.map": "/egek-blog-app/static/js/main.f1f8bdcc.chunk.js.map",
+    "main.js": "/egek-blog-app/static/js/main.9df948db.chunk.js",
+    "main.js.map": "/egek-blog-app/static/js/main.9df948db.chunk.js.map",
     "runtime-main.js": "/egek-blog-app/static/js/runtime-main.67ee6a50.js",
     "runtime-main.js.map": "/egek-blog-app/static/js/runtime-main.67ee6a50.js.map",
     "static/js/2.07c42781.chunk.js": "/egek-blog-app/static/js/2.07c42781.chunk.js",
     "static/js/2.07c42781.chunk.js.map": "/egek-blog-app/static/js/2.07c42781.chunk.js.map",
     "index.html": "/egek-blog-app/index.html",
-    "precache-manifest.50adcba17528183c565a6ab458b6dbf6.js": "/egek-blog-app/precache-manifest.50adcba17528183c565a6ab458b6dbf6.js",
+    "precache-manifest.09eee944262d2f0eb644c93640385b36.js": "/egek-blog-app/precache-manifest.09eee944262d2f0eb644c93640385b36.js",
     "service-worker.js": "/egek-blog-app/service-worker.js",
     "static/css/main.4aae100c.chunk.css.map": "/egek-blog-app/static/css/main.4aae100c.chunk.css.map",
     "static/js/2.07c42781.chunk.js.LICENSE.txt": "/egek-blog-app/static/js/2.07c42781.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.67ee6a50.js",
     "static/js/2.07c42781.chunk.js",
     "static/css/main.4aae100c.chunk.css",
-    "static/js/main.f1f8bdcc.chunk.js"
+    "static/js/main.9df948db.chunk.js"
   ]
 }
