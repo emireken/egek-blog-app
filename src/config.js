@@ -19,7 +19,7 @@ export const config = {
   title: "Emir Eken",
 
   // Your Personal Blog Subtitle
-  subtitle: "Software Developer",
+  subtitle: "IT Project Leader / Software Analyst / Jr. Software Developer  ",
 
   // Header customization
   header: {
