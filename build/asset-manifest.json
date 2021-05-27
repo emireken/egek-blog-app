@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/egek-blog-app/static/css/main.c28e6f6b.chunk.css",
+    "main.js": "/egek-blog-app/static/js/main.76bf7e27.chunk.js",
+    "main.js.map": "/egek-blog-app/static/js/main.76bf7e27.chunk.js.map",
+    "runtime-main.js": "/egek-blog-app/static/js/runtime-main.67ee6a50.js",
+    "runtime-main.js.map": "/egek-blog-app/static/js/runtime-main.67ee6a50.js.map",
+    "static/js/2.b27a92ff.chunk.js": "/egek-blog-app/static/js/2.b27a92ff.chunk.js",
+    "static/js/2.b27a92ff.chunk.js.map": "/egek-blog-app/static/js/2.b27a92ff.chunk.js.map",
+    "index.html": "/egek-blog-app/index.html",
+    "precache-manifest.c69c16d8eca1e70ee0223b5dfc3a2863.js": "/egek-blog-app/precache-manifest.c69c16d8eca1e70ee0223b5dfc3a2863.js",
+    "service-worker.js": "/egek-blog-app/service-worker.js",
+    "static/css/main.c28e6f6b.chunk.css.map": "/egek-blog-app/static/css/main.c28e6f6b.chunk.css.map",
+    "static/js/2.b27a92ff.chunk.js.LICENSE.txt": "/egek-blog-app/static/js/2.b27a92ff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67ee6a50.js",
+    "static/js/2.b27a92ff.chunk.js",
+    "static/css/main.c28e6f6b.chunk.css",
+    "static/js/main.76bf7e27.chunk.js"
+  ]
+}
