@@ -9,7 +9,7 @@ export const HeaderContact = styled.h1`
     props.theme.mode === "light" ? contactColor : contactColorDark};
   line-height: 1.15;
   margin: 1.25rem 0;
-  font-size: 2.5em;
+  font-size: 1.5em;
   text-align: center;
 
   @media only screen and (max-width: 768px) {
