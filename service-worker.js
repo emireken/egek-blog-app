@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/egek-blog-app/precache-manifest.09eee944262d2f0eb644c93640385b36.js"
+  "/egek-blog-app/precache-manifest.f0b834b564d715174ea57bc953001b3b.js"
 );
 
 self.addEventListener('message', (event) => {
