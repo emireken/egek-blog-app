@@ -11,12 +11,12 @@ export const config = {
 
   // Set it to true if you have a Github app to add to this project
   // and fill the client ID & secret
-  enableOAuth: true,
-  OAuthClientID: "Iv1.7686facc6d50adb8",
-  OAuthSecret: "ef277f0a4d00bcd7bb6be5376250014dcb348985",
+  enableOAuth: false,
+  OAuthClientID: "6a0cb037efb98b792eb9",
+  OAuthSecret: "1f05ddbdec4944d10016f40bdadece632c986b27",
 
   // Your Personal Blog Title
-  title: "Emir Eken",
+  title: "Emir Gokberk Eken",
 
   // Your Personal Blog Subtitle
   subtitle: "IT Project Leader / Software Analyst / Jr. Software Developer  ",
